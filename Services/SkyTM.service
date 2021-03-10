@@ -1,0 +1,7 @@
+{
+	"AppId": "com.SkyTM.App",
+	"OfflineEnabled": true,
+	"RestService": false,
+	"ServiceUrl": "/destinations/mobileservices",
+	"SourceType": "Mobile"
+}
